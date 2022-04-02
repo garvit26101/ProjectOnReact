@@ -12,6 +12,7 @@ function App() {
       <Navbar title="TextUtils" mode={mode}></Navbar>
       <div className="container my-30">
         <TextForm heading="Enter the text to analyze"></TextForm>
+        {/* <About></About> */}
       </div>
     </>
   );
